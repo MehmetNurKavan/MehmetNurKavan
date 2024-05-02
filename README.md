@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **Flutter and Solidity**
+- 🤝 I’m looking for help with **Flutter**
 
 - 💬 Ask me about **Flutter**
 
